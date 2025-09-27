@@ -1,1 +1,1 @@
-# Projekat-SAUSAU
+Napomena: u glavnom fajlu projekta Project.py pored svake metode koja se poziva piše koliko treba da se ona izvrši i na kraju fajla stoji ukupno vreme izvršavanja programa tako da treba to uzeti u obzir kada se program pokreće da će izvršavanje verovatno potrajati.
